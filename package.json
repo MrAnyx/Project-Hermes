@@ -1,0 +1,25 @@
+{
+  "name": "project-hermes",
+  "version": "1.0.0",
+  "description": "Electron app to transfert files to storage system",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAnyx/Project-Hermes.git"
+  },
+  "author": "Robin Bidanchon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrAnyx/Project-Hermes/issues"
+  },
+  "homepage": "https://github.com/MrAnyx/Project-Hermes#readme",
+  "dependencies": {
+    "electron": "^5.0.7"
+  },
+  "devDependencies": {
+    "electron-packager": "^14.0.2"
+  }
+}
